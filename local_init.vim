@@ -59,6 +59,8 @@ Plug 'rstacruz/sparkup', {'rtp': 'vim/'}
 Plug 'vim-scripts/L9'
 Plug 'vim-scripts/FuzzyFinder'
 
+call plug#end()
+filetype plugin indent on
 
 "*****************************************************************************
 "" Custom bundles
